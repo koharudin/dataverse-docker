@@ -6,7 +6,7 @@ This infrastructure with integrated services intented for the research organizat
 
 ## Dataverse Docker module
 Dataverse Docker module was developed by [DANS-KNAW](http://dans.knaw.nl) (Data Archiving and Networked Services, the Netherlands) to run [Dataverse](http://github.com/IQSS/dataverse) data repository on Kubernetes and other Cloud services supporting Docker.
-Current available version of [Dataverse](https://github.com/IQSS/dataverse) in the Docker module is 5.13. The development of Docker module funded by [SSHOC](https://sshopencloud.eu/) project that will create the social sciences and humanities area of the European Open Science Cloud [EOSC](https://www.eosc.eu).
+Current available version of [Dataverse](https://github.com/IQSS/dataverse) in the Docker module is 6.2. The development of Docker module funded by [SSHOC](https://sshopencloud.eu/) project that will create the social sciences and humanities area of the European Open Science Cloud [EOSC](https://www.eosc.eu).
 
 ## Presentations
 "Archive in a box" was presented at the Harvard Dataverse Community Meeting 2022 by Slava Tykhonov (DANS-KNAW), you can watch it on [YouTube](https://www.youtube.com/embed/-Re_elg67e8?start=128).
