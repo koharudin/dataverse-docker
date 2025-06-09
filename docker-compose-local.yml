@@ -22,7 +22,7 @@ services:
     postgres:
       container_name: postgres
       ports:
-        - "5432:5432"
+        - "5433:5432"
       image: library/postgres:10.13
       restart: unless-stopped
 
